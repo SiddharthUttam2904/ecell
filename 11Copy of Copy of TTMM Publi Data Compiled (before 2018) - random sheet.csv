@@ -1,3 +1,4 @@
+Name,Surname,Email,,,,
 Siddhesh,Kumar Sahu,siddhesh6196@gmail.com,Binary Hub,Co-Founder and Mentor,,
 Guru,Sankararaman,guru.sankararaman@gmail.com,Stealth Mode Startup Company,Co-Founder and Operations Executive,,
 Bo,Griswold,konexionsllc@yahoo.com,New Mexico Treasure Hunts,Co-Founder and owner,,
@@ -205,7 +206,7 @@ Mohit,Nigam,mohitngm@gmail.com,Ticketgod - Tours & Activities,"Co-Founder, Mobil
 Arun,Kumar,arun@betr.in,7Classes,"Co-Founder, Olympiads Teacher",,
 Yashraj,Bhardwaj,mryashraj11@gmail.com,Ensure Equity Partners,"Co-Founder, Partner",,
 Prayank,Pitti,prayank.pitti1998@gmail.com,Eride,"Co-founder, president",,
-Daniel	Molano,dan.molano@gmail.com,ADEXT,"Co-Founder, President & Chief Executive Officer (CEO)",,,
+"Daniel	Molano",dan.molano@gmail.com,ADEXT,"Co-Founder, President & Chief Executive Officer (CEO)",,,
 Prabhakar,Tadepalli,ptadepal@easystreet.net,"Tyfone, Inc.","Co-Founder, President & COO",,
 Cedric,"Francois, MD, PhD",cedric@apellis.com,Apellis Pharmaceuticals (Nasdaq: APLS),"Co-Founder, President and CEO",,
 Chris,Sapia,csapia@righandssolutions.com,Priority Capital Solutions,"Co-founder, President, and CFO - prioritycapitalsolutions.com",,
@@ -290,7 +291,7 @@ Kunal,Kashyap,kunalkashyap855@gmail.com,"Entrepreneurship Cell, DTU(Formerly DCE
 Tanay,Singhania,singhaniatanay18@gmail.com,International Organisation of Software Developers,Co-Head Designing,,
 Himanshu,Verma,himanshuv140298@gmail.com,aahvaan'18,Co-Head Hospitality,,
 Manish,Jain,manish.purdue@gmail.com,Mirae Asset Capital Markets (India) Pvt. Ltd.,Co-Head Investment Banking (ECM),,
-Ayush,Agarwal,ayush286@gmail.com,International Organisation of Software Developers,Co-Head ML	and NLP,,
+Ayush,Agarwal,ayush286@gmail.com,International Organisation of Software Developers,"Co-Head ML	and NLP",,
 Amol,Grover,frextrite@gmail.com,International Organisation of Software Developers,Co-Head ML & NLP,,
 Amogh,Bansal,amoghdtu@gmail.com,Society of robotics DTU,Co-head of corporate relations,,
 Shrey,Tanna,shrey.tanna.cse16@itbhu.ac.in,Codefest,Co-Head Tech Team,,
@@ -1386,7 +1387,7 @@ David,Nevogt,dave@davenevogt.com,Hubstaff,Co Founder,,ishan
 Sujay,E Subramanya,sujay85@gmail.com,Idea Envy,Co Founder,,ishan
 Jayant,K Rastogi,jayantrastogi@hotmail.com,iHOP - Transfly Technologies Pvt Ltd,Co Founder,,ishan
 IJSRD,Journal,editor@ijsrd.com,IJSRD.com,Co Founder,,ishan
--Zia,Khan-,ziakhan_one@hotmail.com,Independent Consultant,Co Founder,,ishan
+#NAME?,Khan-,ziakhan_one@hotmail.com,Independent Consultant,Co Founder,,ishan
 Hemant,Mandaliya,hemantmandaliya@yahoo.com,Indian Food Trail,Co Founder,,ishan
 Isaac John,Wesley,wonderviz@gmail.com,Inkmonk,Co Founder,,ishan
 Sandeep,Ahuja,sandeep@irisquest.com,IrisQuest,Co Founder,,ishan
@@ -1795,7 +1796,7 @@ Delfinos,HyMart,delfinoshymart@gmail.com,Delfino's HyMart,Co Owner,,tejas
 Dr. Ashish,Singh,ashishsingh25@hotmail.com,Ooj Industry of Knowledge,Co Owner,,tejas
 Krupal,Prajapati,koolkrups007@gmail.com,Eklavya International,Co Owner,,tejas
 Ganesh,Bhat,ganesha_nitte12@rediffmail.com,Tracer India,Co Owner,,tejas
-Binary Data Pvt Ltd,- Website Designing and Development Experts,info.binarydata@gmail.com,Binary Data Pvt. Ltd.,Co Owner,,tejas
+Binary Data Pvt Ltd,#NAME?,info.binarydata@gmail.com,Binary Data Pvt. Ltd.,Co Owner,,tejas
 Durre Tabish,Bibikar,tabishbibikar@actioncoach.com,Expandus Business Services - The Entrepreneur Business School,Co Owner,,tejas
 Constance,Escalante,constance.escalante@gmail.com,Glass Mountain Spa,Co Owner,,tejas
 Norman,Pelletier,pelletier.1710@gmail.com,the cleaning specialist,Co Owner,,tejas
